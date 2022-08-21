@@ -1,0 +1,1 @@
+python preprocess.py --filelists filelists/sonemiyuki_train_filelist.txt filelists/sonemiyuki_val_filelist.txt --text_cleaners japanese_cleaners2
